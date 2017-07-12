@@ -1,0 +1,708 @@
+
+<!DOCTYPE html>
+	<html lang="en"  xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Download and Watch Latest Tamil, Telugu, Malayalam, Hindi Movies at High Quality.</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<link rel="shortcut icon" href='http://tamilrockers.lc/favicon.ico' />
+		<link rel="image_src" href='http://tamilrockers.lc/public/style_images/master/meta_image.png' />
+		<script type='text/javascript'>
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		
+	
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media='screen,print' href="http://tamilrockers.lc/public/min/index.php?ipbv=f17d4871a1afb75d3b399191998f8e8b&amp;f=public/style_css/css_1/ipb_help.css,public/style_css/css_1/videos.css,public/style_css/css_1/calendar_select.css,public/style_css/css_1/ipb_common.css,public/style_css/css_1/ipb_styles.css,public/style_css/css_1/ipshoutbox.css,public/style_css/prettify.css" />
+	
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://tamilrockers.lc/public/style_css/css_1/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
+<![endif]-->
+
+	<style type='text/css'>
+		img.bbc_img { max-width: 100% !important; }
+	</style>
+
+		<meta property="og:title" content="Download and Watch Latest Tamil, Telugu, Malayalam, Hindi Movies at High Quality."/>
+		<meta property="og:site_name" content="TamilRockers.lc"/>
+		<meta property="og:type" content="article" />
+		
+	
+		
+		
+			<meta name="description" content="Download Tamil, Telugu, Hindi, Malayalam Movies at High Quality. And Watch Online." />
+		
+		
+		
+			<meta property="og:description" content="Download Tamil, Telugu, Hindi, Malayalam Movies at High Quality. And Watch Online." />
+		
+		
+	
+
+		
+		
+			<meta name="identifier-url" content="http://tamilrockers.lc/" />
+		
+		
+			<meta property="og:url" content="http://tamilrockers.lc/" />
+		
+		
+		
+	
+
+<meta property="og:image" content="http://tamilrockers.lc/public/style_images/master/meta_image.png"/>
+		<!-- Board Width Hook by Tom Christian -->
+			<style type='text/css'>#content, .main_width { width: 99% !important; }</style>
+		
+		
+		<script type='text/javascript' src='http://tamilrockers.lc/public/min/index.php?ipbv=f17d4871a1afb75d3b399191998f8e8b&amp;g=js'></script>
+	
+	<script type='text/javascript' src='http://tamilrockers.lc/public/min/index.php?ipbv=f17d4871a1afb75d3b399191998f8e8b&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js,public/js/ips.topic.js' charset='UTF-8'></script><script type="text/javascript" src="https://www.google.com/jsapi?"></script>
+<script type='text/javascript' src='http://tamilrockers.lc/public/js/ips.googleSearch.js'></script>
+<script type='text/javascript'>
+	if ( typeof ipb.googleSearch == 'object' )
+	{
+		google.load('search', '1');
+		ipb.googleSearch.cseKey = '017492109873409855919:5zqrwnn3_00';
+		ipb.googleSearch.alwaysDefault = true;
+	}
+	else
+	{
+		$( document ).observe( 'dom:loaded', function()
+		{
+			
+			$( 's_google' ).up( '.special' ).remove();
+		});
+	}
+</script>
+<style type="text/css">
+	#googleSearchResultsWrapper {
+		overflow: none;
+		padding-left: 10px
+	}
+	
+		#googleSearchResultsWrapper .gs-webResult .gs-visibleUrl-short { 
+			display:none; 
+		}
+		
+		#googleSearchResultsWrapper .gs-webResult .gs-visibleUrl-long { 
+			display:block; 
+		}
+		
+		#googleSearchResultsWrapper .gsc-wrapper { 
+			overflow: auto;
+			max-height: 300px;
+		}
+	#googleSearchPopup_inner {
+		overflow: hidden;
+	}
+</style>
+
+
+	
+
+
+
+<!-- Forces topic photo to show without thumb -->
+	<style type='text/css'>
+		.ipsUserPhoto_variable { max-width: 160px !important; }
+		
+			.post_body { margin-left: 185px !important; }
+		
+	</style><script type='text/javascript'>
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://tamilrockers.lc/index.php?s=156560c8e6425b10ce8810cffbe0a71b&';
+		ipb.vars['board_url']			= 'http://tamilrockers.lc';
+		ipb.vars['img_url'] 			= "http://tamilrockers.lc/public/style_images/master";
+		ipb.vars['loading_img'] 		= 'http://tamilrockers.lc/public/style_images/master/loading.gif';
+		ipb.vars['active_app']			= 'portal';
+		ipb.vars['upload_url']			= 'http://tamilrockers.lc/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
+		ipb.vars['session_id']			= '156560c8e6425b10ce8810cffbe0a71b';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt( 0 );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"1"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= '';
+		ipb.vars['cookie_domain'] 		= '';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://tamilrockers.lc/public/style_images/master/star.png';
+		ipb.vars['rate_img_off']		= 'http://tamilrockers.lc/public/style_images/master/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://tamilrockers.lc/public/style_images/master/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://tamilrockers.lc/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "UTF-8";
+		ipb.vars['time_offset']			= "5.5";
+		ipb.vars['hour_format']			= "12";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://tamilrockers.lc/public/style_images/master/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://tamilrockers.lc/public/style_images/master/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script>
+	</head>
+	<body id='ipboard_body'>
+		<p id='content_jump' class='hide'><a id='top'></a><a href='#j_content' title='Jump to content' accesskey='m'>Jump to content</a></p>
+		<div id='ipbwrapper'>
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<div id='header_bar' class='clearfix'>
+				<div class='main_width'>
+					
+					<div id='user_navigation' class='not_logged_in'>
+							
+							<ul class='ipsList_inline right'>
+								<li>
+									<span class='services'>
+										
+										
+										
+									</span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href='http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=login' title='Sign In' id='sign_in'>Sign In</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=register" title='Create Account' id='register_link'>Create Account</a>
+								</li>
+							</ul>
+						</div>
+				</div>
+			</div>
+			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
+			<div id='branding'>
+				<div class='main_width'>
+					<div id='logo'>
+						
+							<a href='http://tamilrockers.lc' title='Go to community index' rel="home" accesskey='1'><img src='//tamilrockers.lc/public/style_images/1_1_summerba.jpg' alt='Logo' /></a>
+						
+					</div>
+					
+				</div>
+			</div>
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id='primary_nav' class='clearfix'>
+				<div class='main_width'>
+					<ul class='ipsList_inline' id='community_app_menu'>
+						
+							<li class='right'>
+								<a href="http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=portal" rel="quickNavigation" accesskey='9' id='quickNavLaunch' title='Open Quick Navigation'><span>&nbsp;</span></a>
+							</li>
+						
+						<li id='nav_explore' class='right'>
+							<a href='http://tamilrockers.lc/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums' accesskey='2' title='View New Content'>View New Content</a>
+						</li>
+						
+						
+								
+									
+								
+
+									
+																				<li id='nav_app_portal' class="left active"><a href='http://tamilrockers.lc/index.php?' title='Go to Home'>Home</a></li>
+									
+								
+
+									
+																				<li id='nav_app_forums' class="left "><a href='http://tamilrockers.lc/index.php/index' title='Go to Forums'>Forums</a></li>
+									
+								
+
+									
+																				<li id='nav_app_members' class="left "><a href='http://tamilrockers.lc/index.php/members/' title='Go to Members'>Members</a></li>
+									
+								
+
+									
+																				<li id='nav_app_shoutbox' class="left "><a href='http://tamilrockers.lc/index.php/shoutbox/' title='Go to Chat'>Chat</a></li>
+									
+								
+
+									
+																				<li id='nav_app_videos' class="left "><a href='http://tamilrockers.lc/index.php/videos/' title='Go to Videos'>Videos</a></li>
+									
+								
+
+									
+																				<li id='nav_app_tutorials' class="left "><a href='http://tamilrockers.lc/index.php/tutorials/' title='Go to Request Section'>Request Section</a></li>
+									
+								
+
+									
+								
+
+									
+								
+							
+<li class='left'><a href='http://tamilrockers.lc/index.php/tutorials/category/6-english-hd-bd-rips-with-subtitle/' title='English Movies With Subtitle'>English Movies</a></li>
+<li class='left'><a href='http://tamilrockers.lc/index.php/tutorials/category/2-tutorials-isp-blocking-tamilrockersnet/' title='How to bypass ISP block?'>How to bypass ISP block?</a></li>
+						<li id='nav_other_apps' style='display: none'>
+							<a href='#' class='ipbmenu' id='more_apps'>More <img src='http://tamilrockers.lc/public/style_images/master/useropts_arrow.png' /></a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id='content' class='clearfix'>
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+				<div id='secondary_navigation' class='clearfix'>
+						<ol class='breadcrumb top ipsList_inline left'>
+														<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a href='http://tamilrockers.lc/index.php/index' itemprop="url">
+										<span itemprop="title">TamilRockers.lc</span>
+									</a>
+								</li>
+								
+							
+								<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class='nav_sep'>&rarr;</span>
+									 <a href='http://tamilrockers.lc/index.php/portal/' title='Return to Portal' itemprop="url"><span itemprop="title">Portal</span></a>
+								</li>
+								
+							
+						</ol>
+					</div>
+					<br />
+				<!-- ::: CONTENT ::: -->
+				
+					<div class='ipsAd'><script type='text/javascript' src='//pl145041.puhtml.com/34/3d/97/343d97e000737ae40c516a6d48479cb3.js'></script>
+
+<!-- PopAds.net Popunder Code for tamilrockers.lc -->
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+  var _pop = _pop || [];
+  _pop.push(['siteId', 1917253]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+/*]]>/* */
+</script>
+<!-- PopAds.net Popunder Code End -->
+
+</div>
+				
+				
+
+
+
+
+
+<div class='ipsLayout  ipsLayout_withright ipsLayout_hugeright clearfix'>
+      <div class='ipsLayout_left'>
+           
+      </div>
+      <div class='ipsLayout_content clearfix'>
+           
+     
+          
+              
+<div class='ipsBox clear'>
+
+    
+
+        <div class='ipsBox_container ipsPad'>        
+
+            <div class='ipsType_textblock ipsPad'>
+                <p  style="text-align:center"><span  style="font-size:12px"><strong><a href='http://tamilrockers.lc/index.php/topic/7802-prince-of-persia-the-sands-of-time-2010720p-bdrip-tamil-telugu-hindi-eng-x264-1gb-esubs/?p=28337' class='bbc_url' title=''><span  style="color:#0000ff">Prince of Persia: The Sands of Time (2010)[720p - BDRip - [Tamil + Telugu + Hindi + Eng] - x264 - 1GB - ESubs]</span></a><br><a href='http://tamilrockers.lc/index.php/topic/53071-' class='bbc_url' title=''><span  style="color:#000000">Baahubali 2 - The Conclusion (2017) Tamil [iTunes Mp3 320Kbps &amp; iTunes Untouched] - Maragadamani Muscial</span></a><br><a href='http://tamilrockers.lc/index.php/topic/53063-demonic-toys-personal-demons-2010720p-hdrip-tamil-hindi-eng-x264-800mb/' class='bbc_url' title=''><span  style="color:#b22222">Demonic Toys Personal Demons (2010)[720p - HDRip - [Tamil + Hindi + Eng] - x264 - 800MB]</span></a><br>Reseeding : <a href='http://tamilrockers.lc/index.php/topic/30128-' class='bbc_url' title=''><span  style="color:#008000">300 Duology (2006 &amp; 2014) 720p BD-Rips [Tamil + Hindi + Telugu + English] [X264 - 1GB - E-Sub]</span></a><br><a href='http://tamilrockers.lc/index.php/topic/53044-' class='bbc_url' title=''><span  style="color:#000000">Poorna (2017) Hindi DVDScr x264 700MB</span></a><br><a href='http://tamilrockers.lc/index.php/topic/52988-' class='bbc_url' title=''><span  style="color:#800080">Kong: Skull Island (2017)[720p - HDRip - [Tamil (HQ Clean Aud) + Eng] - x264 - 950MB]</span></a> | <a href='http://tamilrockers.lc/index.php/topic/53000-' class='bbc_url' title=''>[1080p - HDRip - [Tamil (HQ Clean Aud) + Eng] - x264 - 4GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52997-' class='bbc_url' title=''>[Tamil - 400MB]</a><br><a href='http://tamilrockers.lc/index.php/topic/52964-' class='bbc_url' title=''><span  style="color:#0000ff">22 Minutes (2014)[720p - HDRip - [Tamil (HQ Aud) + Russ] - x264 - 850MB]</span></a> | <a href='http://tamilrockers.lc/index.php/topic/52965-' class='bbc_url' title=''>[Tamil - 400MB]</a></strong></span><br>=======================================================================</p><p  style="text-align:center"><strong><span  style="color:#0099ff"><span  style="font-family:'trebuchet ms';">Tamil New Movies ( <a href='http://tamilrockers.lc/index.php/forum/121-' class='bbc_url' title=''>More</a> )</span></span></strong></p><strong><span  style="font-size:12px">Dharma Durai (2016) HD DVD - <a href='http://tamilrockers.lc/index.php/topic/53079-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVD9 - DD 5.1 - 7.5GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53102-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p True HDRip - x264 - DD 5.1 (448Kbps) - 9GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53098-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HQ HDRip - x264 - DD 5.1 (448Kbps) - 4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53101-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HQ HDRip - x264 - DD 5.1 (448Kbps) - 3GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53092-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HQ HDRip - x264 - DD 5.1 (448Kbps) - 2.2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53087-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HQ HDRip - x264 - 5.1 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53082-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53085-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53083-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>Virudhachalam (2017) HQ DVDScr - <a href='http://tamilrockers.lc/index.php/topic/53120-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53118-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53121-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53119-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Juliyum 4 Perum (2017) HQ DVDScr - <a href='http://tamilrockers.lc/index.php/topic/53058-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53046-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53057-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53056-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Naalu Peruku Nalladhuna Edhuvum Thappilla (2017) HQ Real DVDScr - <a href='http://tamilrockers.lc/index.php/topic/53033-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53029-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53032-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53031-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Kuttram 23 (2017) HD DVD - <a href='http://tamilrockers.lc/index.php/topic/53023-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HDRip - 5.1 - 3GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53017-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53020-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53003-' class='bbc_url' title=''><span  style="color:#ff00ff">[480p Untouched HD AVC - 1.2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53004-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53012-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53005-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>Motta Shiva Ketta Shiva (2017) HD DVD - <a href='http://tamilrockers.lc/index.php/topic/53024-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HDRip - 5.1 - 3GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53019-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53018-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53002-' class='bbc_url' title=''><span  style="color:#ff00ff">[480p Untouched HD AVC - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53007-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53009-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/53013-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>8 Thottakkal (2017) HQ Real DVDScr - <a href='http://tamilrockers.lc/index.php/topic/53001-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52989-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52996-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52995-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Kaatru Veliyidai (2017) HQ Real DVDScr - <a href='http://tamilrockers.lc/index.php/topic/52973-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p DVDScr - x264 - 2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52972-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52970-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52975-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52971-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Attu (2017) HQ DVDScr - <a href='http://tamilrockers.lc/index.php/topic/52987-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52981-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52984-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52983-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Kadhal Kan Katthuthe (2017) HD DVD - <a href='http://tamilrockers.lc/index.php/topic/52934-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p v2 HD - 5.1 - 3.1GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52932-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HD - 3.9GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52930-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HD AVC - 2GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52935-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p v2 HD - 5.1 - 1.6GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52941-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52936-' class='bbc_url' title=''><span  style="color:#ff00ff">[480p HD - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52938-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52939-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52937-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>Yeman (2016) Proper HD DVD + Soft Subs - <a href='http://tamilrockers.lc/index.php/topic/52927-' class='bbc_url' title=''><span  style="color:#ff00ff">[4K - UHD - UNTOUCHED - 5.9GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52928-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p v2 HD - 5.1 - 4.5GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52925-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HD - 4.6GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52926-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HD - 3.5GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52929-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p v2 HD - 5.1 - 2.3GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52949-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52940-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52942-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52943-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>The Ghazi Attack (2017) Proper [Tamil + Telugu] (Original) HD DVD - <a href='http://tamilrockers.lc/index.php/topic/52753-' class='bbc_url' title=''><span  style="color:#ff00ff">[1080p HD - 5.1 - 3.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52754-' class='bbc_url' title=''><span  style="color:#ff00ff">[720p HDRip - 5.1 - x264 - 1.4GB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52750-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52751-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52752-' class='bbc_url' title=''><span  style="color:#ff00ff">[HDRip - x264 - 400MB]</span></a><br>1 Am (2017) DVDScr - <a href='http://tamilrockers.lc/index.php/topic/52772-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52779-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52780-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>Sevili (2017) DVDScr - <a href='http://tamilrockers.lc/index.php/topic/52766-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52768-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - XviD - MP3 - 700MB]</span></a> - <a href='http://tamilrockers.lc/index.php/topic/52767-' class='bbc_url' title=''><span  style="color:#ff00ff">[DVDScr - x264 - 400MB]</span></a><br>465 (2017) TC - <a href='http://tamilrockers.lc/index.php/topic/52770-' class='bbc_url' title=''><span  style="color:#ff00ff">[TC - x264 - 700MB]</span></a></span></strong><br><p  style="text-align:center">=======================================================================<br><strong><span  style="color:#0099ff"><span  style="font-family:'trebuchet ms';"><span  style="font-size:14px">Hindi | Malayalam | Telugu Movies ( <a href='http://tamilrockers.lc/index.php/forum/67-' class='bbc_url' title=''>More</a> )</span></span></span></strong></p><strong><span  style="font-size:12px"><a href='http://tamilrockers.lc/index.php/topic/52958-' class='bbc_url' title=''>Jolly LLB 2 (2017) Hindi 720p HDRip AVC AAC 1.9GB</a> | <a href='http://tamilrockers.lc/index.php/topic/52960-' class='bbc_url' title=''>Hindi HDRip x264 700MB]</a><br><a href='http://tamilrockers.lc/index.php/topic/52962-' class='bbc_url' title=''>Raees (2017) Hindi 720p HDRip 5.1 1.4GB ESubs</a> | <a href='http://tamilrockers.lc/index.php/topic/52895-' class='bbc_url' title=''>Hindi HDRip x264 700MB ESubs]</a><br>Dafedar (2016) Malayalam HD DVD - <a href='http://tamilrockers.lc/index.php/topic/52879-' class='bbc_url' title=''>[1080p HD AVC MP4 2.8GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52881-' class='bbc_url' title=''>[720p HD AVC MP4 2.1GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52882-' class='bbc_url' title=''>[480p HD AVC MP4 1.1GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52887-' class='bbc_url' title=''>[HDRip - x264 - 700MB]</a><br>LBW (2016) Malayalam HD DVD - <a href='http://tamilrockers.lc/index.php/topic/52883-' class='bbc_url' title=''>[1080p HD AVC MP4 2.9GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52884-' class='bbc_url' title=''>[720p HD AVC MP4 2.2GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52885-' class='bbc_url' title=''>[480p HD AVC MP4 1.2GB]</a> | <a href='http://tamilrockers.lc/index.php/topic/52888-' class='bbc_url' title=''>[HDRip - x264 - 700MB]</a></span></strong>
+                <!--IBF.ATTACHMENT_11742-->
+            </div>
+            
+        </div>
+
+        <div class='general_box'>
+            <h3 class='ipsType_smaller'>&nbsp;            
+                
+
+                <span class='right'>
+                886169 Views &middot;
+                0 Replies
+	
+                
+                </span>
+                	
+            </h3>
+                        
+	</div>
+
+
+</div>
+
+<br class='clearfix' />
+          
+     
+
+      </div>
+      <div class='ipsLayout_right'>
+           
+     
+          
+              <style type="text/css">
+.video_thumbnail {
+       padding: 1px;
+       margin: 3px;
+       background: #ffffff;
+       border: 1px solid #3F3F3F;       
+}
+</style>
+
+<div class='ipsSideBlock'>
+	<h3>Board Videos</h3>
+        <div class='_sbcollapsable'>
+        	<ul class='ipsList_withminiphoto'>
+        		
+        
+        			
+        				<li class='clearfix'>
+        
+                            
+                                <span class='left' style='margin-right: 5px;'>
+                                    	
+    
+    <a href='http://tamilrockers.lc/index.php/videos/view-6197-7-naatkal-official-trailer-shakthivel-vasunikesha-patel/' title='7 Naatkal - Official Trailer | Shakthivel Vasu,Nikesha Patel' >
+        <img id='thumbnail' src='http://tamilrockers.lc/uploads/videos/thumbnails/monthly_04_2017/thumb_6197.jpg' alt='Thumbnail' width='60px' height='40px' class='video_thumbnail  ' />    
+    </a>
+                                </span>
+                            
+                            
+                            <div class='list_content'>
+                                <a href='http://tamilrockers.lc/index.php/videos/view-6197-7-naatkal-official-trailer-shakthivel-vasunikesha-patel/' title='7 Naatkal - Official Trailer | Shakthivel Vasu,Nikesha Patel'><h4>7 Naatkal - Official Trailer | Shakth...</h4></a>
+                                <p class="desc ipsType_smaller">Today, 08:58 PM (656 Views)</p>
+                            </div>
+        
+        				</li>
+        			
+
+        				<li class='clearfix'>
+        
+                            
+                                <span class='left' style='margin-right: 5px;'>
+                                    	
+    
+    <a href='http://tamilrockers.lc/index.php/videos/view-6196-thor-ragnarok-extended-teaser-trailer-2mintues/' title='Thor: Ragnarok - Extended Teaser Trailer 2Mintues' >
+        <img id='thumbnail' src='http://tamilrockers.lc/uploads/videos/thumbnails/monthly_04_2017/thumb_6196.jpg' alt='Thumbnail' width='60px' height='40px' class='video_thumbnail  ' />    
+    </a>
+                                </span>
+                            
+                            
+                            <div class='list_content'>
+                                <a href='http://tamilrockers.lc/index.php/videos/view-6196-thor-ragnarok-extended-teaser-trailer-2mintues/' title='Thor: Ragnarok - Extended Teaser Trailer 2Mintues'><h4>Thor: Ragnarok - Extended Teaser Trai...</h4></a>
+                                <p class="desc ipsType_smaller">Today, 08:56 PM (1187 Views)</p>
+                            </div>
+        
+        				</li>
+        			
+
+        				<li class='clearfix'>
+        
+                            
+                                <span class='left' style='margin-right: 5px;'>
+                                    	
+    
+    <a href='http://tamilrockers.lc/index.php/videos/view-6195-thor-ragnarok-official-uk-teaser-trailer/' title='Thor: Ragnarok - Official UK Teaser Trailer' >
+        <img id='thumbnail' src='http://tamilrockers.lc/uploads/videos/thumbnails/monthly_04_2017/thumb_6195.jpg' alt='Thumbnail' width='60px' height='40px' class='video_thumbnail  ' />    
+    </a>
+                                </span>
+                            
+                            
+                            <div class='list_content'>
+                                <a href='http://tamilrockers.lc/index.php/videos/view-6195-thor-ragnarok-official-uk-teaser-trailer/' title='Thor: Ragnarok - Official UK Teaser Trailer'><h4>Thor: Ragnarok - Official UK Teaser T...</h4></a>
+                                <p class="desc ipsType_smaller">Today, 08:55 PM (587 Views)</p>
+                            </div>
+        
+        				</li>
+        			
+
+        				<li class='clearfix'>
+        
+                            
+                                <span class='left' style='margin-right: 5px;'>
+                                    	
+    
+    <a href='http://tamilrockers.lc/index.php/videos/view-6194-thor-ragnarok-official-uk-teaser-trailer-hd/' title='Thor: Ragnarok - Official UK Teaser Trailer | HD' >
+        <img id='thumbnail' src='http://tamilrockers.lc/uploads/videos/thumbnails/monthly_04_2017/thumb_6194.jpg' alt='Thumbnail' width='60px' height='40px' class='video_thumbnail  ' />    
+    </a>
+                                </span>
+                            
+                            
+                            <div class='list_content'>
+                                <a href='http://tamilrockers.lc/index.php/videos/view-6194-thor-ragnarok-official-uk-teaser-trailer-hd/' title='Thor: Ragnarok - Official UK Teaser Trailer | HD'><h4>Thor: Ragnarok - Official UK Teaser T...</h4></a>
+                                <p class="desc ipsType_smaller">Today, 06:34 PM (1950 Views)</p>
+                            </div>
+        
+        				</li>
+        			
+
+        				<li class='clearfix'>
+        
+                            
+                                <span class='left' style='margin-right: 5px;'>
+                                    	
+    
+    <a href='http://tamilrockers.lc/index.php/videos/view-6193-karuppu-raja-vella-raja-press-meet-hd/' title='Karuppu Raja Vella Raja Press Meet HD' >
+        <img id='thumbnail' src='http://tamilrockers.lc/uploads/videos/thumbnails/monthly_04_2017/thumb_6193.jpg' alt='Thumbnail' width='60px' height='40px' class='video_thumbnail  ' />    
+    </a>
+                                </span>
+                            
+                            
+                            <div class='list_content'>
+                                <a href='http://tamilrockers.lc/index.php/videos/view-6193-karuppu-raja-vella-raja-press-meet-hd/' title='Karuppu Raja Vella Raja Press Meet HD'><h4>Karuppu Raja Vella Raja Press Meet HD</h4></a>
+                                <p class="desc ipsType_smaller">Today, 06:34 PM (720 Views)</p>
+                            </div>
+        
+        				</li>
+        			
+                        <li class='short desc'><a href='http://tamilrockers.lc/index.php/videos/'>(View All Videos)</a></li>
+        		
+        	</ul>
+        </div>
+</div>
+          
+     
+ 
+      </div>
+</div>
+
+
+
+
+	<script type="text/javascript" src="http://tamilrockers.lc/public/js/3rd_party/prettify/prettify.js"></script>
+	<script type='text/javascript' src='http://tamilrockers.lc/public/js/3rd_party/prettify/lang-sql.js'></script>
+	<!-- By default we load generic code, php, css, sql and xml/html; load others here if desired -->
+	<script type="text/javascript">
+	//<![CDATA[
+		Event.observe( window, 'load', function(e){ prettyPrint() });
+	//]]>
+	</script>
+				
+				<ol class='breadcrumb bottom ipsList_inline left clearfix clear'>
+											<li><a href='http://tamilrockers.lc/index.php/index'>TamilRockers.lc</a></li>
+							
+						
+							<li><span class='nav_sep'>&rarr;</span> <a href='http://tamilrockers.lc/index.php/portal/' title='Return to Portal'><span>Portal</span></a></li>
+							
+						
+
+					
+					<li class='right ipsType_smaller'>
+						<a rel="nofollow" href='http://tamilrockers.lc/index.php/privacypolicy/'>Privacy Policy</a>
+					</li>
+					
+					
+				</ol>
+			</div>
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id='footer_utilities' class='main_width clearfix clear'>
+				<a rel="nofollow" href='#top' id='backtotop' title='Go to top'><img src='http://tamilrockers.lc/public/style_images/master/top.png' alt='' /></a>
+				<ul class='ipsList_inline left'>
+					<li>
+						<img src='http://tamilrockers.lc/public/style_images/master/feed.png' alt='RSS Feed' id='rss_feed' class='clickable' />
+					</li>
+					
+							
+					
+					
+					<li>
+						<a href="http://tamilrockers.lc/index.php?app=core&amp;module=help" title='View help' rel="help" accesskey='6'>Help</a>
+					</li>
+				</ul>
+				
+			</div>
+			
+			<div><img src='http://tamilrockers.lc/index.php?app=core&amp;module=task' alt='' style='border: 0px;height:1px;width:1px;' /></div>
+			
+				<script type='text/javascript' src='http://tamilrockers.lc/public/js/3rd_party/lightbox.js'></script>
+<script type='text/javascript'>
+//<![CDATA[
+	// Lightbox Configuration
+	LightboxOptions = Object.extend({
+	    fileLoadingImage:        'http://tamilrockers.lc/public/style_images/master/lightbox/loading.gif',
+	    fileBottomNavCloseImage: 'http://tamilrockers.lc/public/style_images/master/lightbox/closelabel.gif',
+	    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+	    animate: true,         // toggles resizing animations
+	    resizeSpeed: 10,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
+	    borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
+		// When grouping images this is used to write: Image # of #.
+		// Change it for non-english localization
+		labelImage: "Image",
+		labelOf: "of"
+	}, window.LightboxOptions || {});
+/* Watch for a lightbox image and set up our downloadbutton watcher */
+document.observe('click', (function(event){
+    var target = event.findElement('a[rel*="lightbox"]') || event.findElement('area[rel*="lightbox"]') || event.findElement('span[rel*="lightbox"]');
+    if (target) {
+        event.stop();
+        gbl_addDownloadButton();
+    }
+}).bind(this));
+var _to    = '';
+var _last  = '';
+function gbl_addDownloadButton()
+{
+	if ( typeof( ipsLightbox.lightboxImage ) != 'undefined' && ipsLightbox.lightboxImage.src )
+	{
+		if ( _last != ipsLightbox.lightboxImage.src )
+		{
+			if ( ! $('gbl_d') )
+			{
+				$('bottomNav').insert( { top: "<div id='gbl_d' style='text-align:right;padding-bottom:4px;'></div>" } );
+			}
+			
+			$('gbl_d').update( "<a href='"+ ipsLightbox.lightboxImage.src + "' target='_blank'><img src='http://tamilrockers.lc/public/style_images/master/lightbox/download-icon.png' /></a>" );
+			
+			_last = ipsLightbox.lightboxImage.src;
+		}
+	}
+	
+	/* Check for init and then keep checking for new image */
+	_to = setTimeout( "gbl_addDownloadButton()", 1000 );
+}
+//]]>
+</script>
+			
+			<div id='inline_login_form' style="display:none">
+		<form action="http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id='login'>
+				<input type='hidden' name='auth_key' value='880ea6a14ea49e853634fbdc5015a024' />
+				<input type="hidden" name="referer" value="http://tamilrockers.lc/" />
+				<h3>Sign In</h3>
+				
+				<br />
+				<div class='ipsForm ipsForm_horizontal'>
+					<fieldset>
+						<ul>
+							<li class='ipsField'>
+								<div class='ipsField_content'>
+									Need an account? <a href="http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=register" title='Register now!'>Register now!</a>
+								</div>
+							</li>
+							<li class='ipsField ipsField_primary'>
+								<label for='ips_username' class='ipsField_title'>Username</label>
+								<div class='ipsField_content'>
+									<input id='ips_username' type='text' class='input_text' name='ips_username' size='30' tabindex='0' />
+								</div>
+							</li>
+							<li class='ipsField ipsField_primary'>
+								<label for='ips_password' class='ipsField_title'>Password</label>
+								<div class='ipsField_content'>
+									<input id='ips_password' type='password' class='input_text' name='ips_password' size='30' tabindex='0' /><br />
+									<a href='http://tamilrockers.lc/index.php?app=core&amp;module=global&amp;section=lostpass' title='Retrieve password'>I've forgotten my password</a>
+								</div>
+							</li>
+							<li class='ipsField ipsField_checkbox'>
+								<input type='checkbox' id='inline_remember' checked='checked' name='rememberMe' value='1' class='input_check' tabindex='0' />
+								<div class='ipsField_content'>
+									<label for='inline_remember'>
+										<strong>Remember me</strong><br />
+										<span class='desc lighter'>This is not recommended for shared computers</span>
+									</label>
+								</div>
+							</li>
+							
+								<li class='ipsField ipsField_checkbox'>
+									<input type='checkbox' id='inline_invisible' name='anonymous' value='1' class='input_check' tabindex='0' />
+									<div class='ipsField_content'>
+										<label for='inline_invisible'>
+											<strong>Sign in anonymously</strong><br />
+											<span class='desc lighter'>Don't add me to the active users list</span>
+										</label>
+									</div>
+								</li>
+							
+							
+							<li class='ipsPad_top ipsForm_center desc ipsType_smaller'>
+								<a rel="nofollow" href='http://tamilrockers.lc/index.php/privacypolicy/'>Privacy Policy</a>
+							</li>
+							
+						</ul>
+					</fieldset>
+					
+					<div class='ipsForm_submit ipsForm_center'>
+						<input type='submit' class='ipsButton' value='Sign In' tabindex='0' />
+					</div>
+				</div>
+			</form>
+	</div>
+		</div>
+		
+		
+		<script type='text/javascript'>
+			if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
+		</script>
+			</body>
+</html>
